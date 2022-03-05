@@ -1,0 +1,35 @@
+body{
+    /* background-color: rgb(155, 125, 238); */
+    background : url('dbs11.jpg') ;
+    background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    background-size: full;
+    
+}
+
+div.head{
+    text-align: center;
+    color: white;
+    text-align: center;
+}
+div.date label{
+    width: auto;
+}
+div.date{
+    text-align: inherit;
+}
+div.appointment form{
+    margin: 0 auto;
+    width: 300px;
+    background: rgba(0,0,0,.2);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+label{
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    color: white;
+}
